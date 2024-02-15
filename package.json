@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm i --force",
+    "build": "npm i --forc",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
